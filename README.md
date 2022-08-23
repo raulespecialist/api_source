@@ -28,11 +28,11 @@ based on different keys:
 “email”, “phone_number”, “devices”, “geolocation”, “user_data”
 Email data example:
 
-Email data example:
+### Email data example:
 
-| email | creation_date | email_status | email_score  | valid_email | fraud |
+| email | creation_date | email_status | email_score  | valid_email | fraud|
 
-|  -- | -- | -- | -- | -- | -- | -- | -- | -- |
+|---|---|---|---|---|---|---|---|---|
 
 |  carl@trully.ai | 2020/06/01 | active | 910 | 1 | 0 |
 
