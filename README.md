@@ -30,12 +30,11 @@ Email data example:
 
 Email data example:
 
-
 | email | creation_date | email_status | email_score  | valid_email | fraud |
 
-|--|--|--|--|--|--|--|--|--|
+|  -- | -- | -- | -- | -- | -- | -- | -- | -- |
 
-| carl@trully.ai | 2020/06/01 | active | 910 | 1 | 0 |
+|  carl@trully.ai | 2020/06/01 | active | 910 | 1 | 0 |
 
 | test@proton.mail | 2022/05/08 | active | 423 | 0 | 1 |
 
@@ -50,6 +49,7 @@ Email data example:
 | fraud@hotmail.com | 2022/08/12 | active | 450 | 0 | 1 |
 
 | fraudster@proton.mail | 2022/08/14 | active | 310 |0 | 1 |
+
 
 When expecting a request we expect different keys that will be enriched
 depending on the initial key
